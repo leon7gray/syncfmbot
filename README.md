@@ -15,3 +15,11 @@ $playing shows people in the server who are listening to music right now
 $recent shows top 50 most recent songs listened
 
 $search (artist | album | track)
+
+demo pictures:
+
+![alt text](https://github.com/leon7gray/syncfmbot/blob/master/image1.png)
+![alt text](https://github.com/leon7gray/syncfmbot/blob/master/image2.png)
+![alt text](https://github.com/leon7gray/syncfmbot/blob/master/image3.png)
+![alt text](https://github.com/leon7gray/syncfmbot/blob/master/image4.png)
+![alt text](https://github.com/leon7gray/syncfmbot/blob/master/image5.png)
